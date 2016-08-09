@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://github.com/kaychn126/"/>
   <updated>2016-08-09T13:27:55.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://github.com/kaychn126/</id>
   
   <author>
     <name>chenkai</name>
@@ -17,12 +17,12 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/08/09/hello-world/"/>
-    <id>http://yoursite.com/2016/08/09/hello-world/</id>
+    <link href="https://github.com/kaychn126/2016/08/09/hello-world/"/>
+    <id>https://github.com/kaychn126/2016/08/09/hello-world/</id>
     <published>2016-08-09T13:27:55.000Z</published>
     <updated>2016-08-09T13:27:55.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
@@ -44,8 +44,8 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2016/06/30/resume/"/>
-    <id>http://yoursite.com/2016/06/30/resume/</id>
+    <link href="https://github.com/kaychn126/2016/06/30/resume/"/>
+    <id>https://github.com/kaychn126/2016/06/30/resume/</id>
     <published>2016-06-30T15:17:30.000Z</published>
     <updated>2016-07-08T06:58:15.000Z</updated>
     
@@ -56,7 +56,7 @@
 <li>山东大学 / 计算机科学与应用 / 本科 / 2009-2013</li>
 <li>工作年限：4年</li>
 <li>期望职位：iOS开发工程师 / 杭州</li>
-<li>Github：<a href="https://github.com/kaychn126" target="_blank" rel="external">https://github.com/kaychn126</a></li>
+<li>Github：<a href="https://github.com/kaychn126">https://github.com/kaychn126</a></li>
 </ul>
 <p>##联系方式</p>
 <ul>
@@ -107,7 +107,7 @@
 <p>####CKDynamicDispatcher</p>
 <blockquote>
 <p><code>CKDynamicDispatcher</code>提供的功能是：通过<code>Scheme</code>或者<code>JSBridge</code>注入iOS客户端一段<code>Json</code>文本，<code>CKDynamicDispatcher</code>用反射的方式可以动态调用iOS客户端内部任何<code>UIViewController</code>的子类。<br>此项目的主要目的是使<code>H5</code>页面可以动态调用任何<code>Native</code>页面，而不用提前将调用逻辑写在客户端中。使客户端可以更加灵活的支持各种类型的运营活动。  </p>
-<p>详情见<a href="https://github.com/kaychn126/CKDynamicDispatcher" target="_blank" rel="external">Github</a>。</p>
+<p>详情见<a href="https://github.com/kaychn126/CKDynamicDispatcher">Github</a>。</p>
 </blockquote>
 <p>####EBBadgeView</p>
 <blockquote>
@@ -117,12 +117,12 @@
 <li>提供<code>UITabBar</code>的扩展方法使<code>UITabBar</code>可以显示自定义的未读标示。  </li>
 <li>提供<code>UIView</code>的扩展方法使<code>UIView</code>可以获取所有<code>subViews</code>的未读标示，并将所有的<code>subViews</code>的未读标示合并。  另一个功能是任何<code>UIView</code>的标示发生变化都会一层一层向上通知所有的<code>superView</code>。</li>
 </ul>
-<p>详情见<a href="https://github.com/kaychn126/EBBadgeView" target="_blank" rel="external">Github</a>。</p>
+<p>详情见<a href="https://github.com/kaychn126/EBBadgeView">Github</a>。</p>
 </blockquote>
 <p>####NodeSpider</p>
 <blockquote>
 <p><code>NodeSpider</code>是用<code>NodeJs</code>实现的爬虫服务器，用来收集知名iOS开发博主的文章存入<code>MySql</code>数据库，并提供API供iOS客户端展示，服务平时跑在<code>树莓派</code>板子上。  </p>
-<p>详情见Github <a href="https://github.com/kaychn126/NodeSpider" target="_blank" rel="external">Server端地址</a>，<a href="https://github.com/kaychn126/BlogReader" target="_blank" rel="external">iOS客户端地址</a>。</p>
+<p>详情见Github <a href="https://github.com/kaychn126/NodeSpider">Server端地址</a>，<a href="https://github.com/kaychn126/BlogReader">iOS客户端地址</a>。</p>
 </blockquote>
 <p>##技能标签</p>
 <ul>
